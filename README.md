@@ -2,7 +2,9 @@
 
 Detects Bible versicles and creates a link for Equipd iPad Application.
 
-## Version 1.0.0
+## Version
+
+v1.0.0
 
 ## Info
 
