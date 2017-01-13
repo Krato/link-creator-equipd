@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Detect versicles to Equipd",
+        "command": "link-creator-equipd:parse"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Equipd - Link creator",
+          "submenu": [
+            {
+              "label": "Detect and create links",
+              "command": "link-creator-equipd:parse"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
