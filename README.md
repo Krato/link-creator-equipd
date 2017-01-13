@@ -4,8 +4,12 @@ Detects Bible versicles and creates a link for Equipd iPad Application.
 
 ## Version
 
-v1.0.0
+v1.1.0
 
 ## Info
 
-This is a first release. I know that has some errors. Will be fixed soon.
+This package detects Bible versicles (only Spanish from now) and create links for Equipd app for iPad.
+
+It detects Bible versicles in a text like:
+
+`Génesis 2:3`, `Gen 23:10-15`, `Genesis 5:2-5,3, 18`
