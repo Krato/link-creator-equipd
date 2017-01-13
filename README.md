@@ -4,7 +4,7 @@ Detects Bible versicles and creates a link for Equipd iPad Application.
 
 ## Version
 
-v1.1.0
+v1.2.0
 
 ## Info
 
