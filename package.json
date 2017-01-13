@@ -1,11 +1,13 @@
 {
   "name": "link-creator-equipd",
   "main": "./lib/link-creator-equipd",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Detects Bible versicles and creates a link for Equipd iPad Application",
   "author": "Eric Lagarda <info@ericlagarda.com>",
   "keywords": [
-      "bible", "versicles", "equipd"
+    "bible",
+    "versicles",
+    "equipd"
   ],
   "activationCommands": {
     "atom-workspace": "link-creator-equipd:parse"
@@ -15,6 +17,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
